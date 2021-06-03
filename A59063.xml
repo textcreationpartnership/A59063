@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Seekers request to Catholick priests and Protestant ministers for satisfying his conscience in the truth of what he ought to believe of the Lords supper</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59063</idno><idno type="EEBO-CITATION">11358623</idno>
+  <idno type="VID">47573</idno>
+  <idno type="EEBO-PROQUEST">2240866743</idno>
+  
+            <idno type="STC">Wing S2411</idno>
+            <idno type="STC">ESTC R30552</idno>
+            <idno type="OCLC">11358623</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47573)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1469:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Seekers request to Catholick priests and Protestant ministers for satisfying his conscience in the truth of what he ought to believe of the Lords supper</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.F. and are to be sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lord's Supper.</term>
+               <term type="topical_term">Transubstantiation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47573:1"/>
+            <pb facs="tcp:47573:1"/>
+            <p>
+               <hi>A Seekers Request</hi> TO Catholick Priests, AND <hi>Protestant Ministers,</hi> For Satisfying his CONSCIENCE In the Truth of what He ought to Believe OF <hi>The Lords Supper.</hi>
+            </p>
+            <q>
+               <bibl>Luk. 11. 9.</bibl> And I say unto You, Ask, and it shall be given you; Seek, and ye shall find.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. F.</hi> and are to be Sold by the Booksellers of <hi>London</hi> and <hi>Westminster.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47573:2"/>
+            <pb n="3" facs="tcp:47573:2"/>
+            <head>A Seekers Request to Catho<g ref="char:EOLhyphen"/>lick Priests, and Protestant Ministers, &amp;c.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>I Beg Your Pardons, if the Appellations I have given Ye, of <hi>Catholick Priests,</hi> and <hi>Protestant Ministers,</hi> be not agreeable to Both, or Either of Your Qualifications: For, as I am to <hi>Seek</hi> in Mat<g ref="char:EOLhyphen"/>ters of <hi>Faith</hi> and <hi>Behaviour,</hi> so I may as well be Mistaken in the One, as at a Loss in the Other: But, as I am given to Understand, Ye both pretend to be the True <hi>Teachers</hi> and <hi>Administers</hi> of <hi>God's Holy Word</hi> and <hi>Sacraments:</hi> And indeed, I am half perswaded, by the little <hi>Faith</hi> I have, That the <hi>Clergy</hi> of One side or Other of Ye, are the <hi>Truly</hi> and <hi>Lawfully</hi> sent of <hi>God,</hi> to Teach and Baptize all Nations: For generally, speaking of <hi>Christians,</hi> in this our little <hi>English</hi> World, I find but Two sorts pretending to <hi>Christianity;</hi> that is to say, <hi>Ca<g ref="char:EOLhyphen"/>tholicks</hi> of One sort, and <hi>Protestants</hi> of All sorts; and if the <hi>Priests</hi> of some of these be not of <hi>God,</hi> then You are all to <hi>Seek,</hi> as well as I.</p>
+            <p>However, Having heard much of <hi>Religion,</hi> and of <hi>God,</hi> whom I Believe, and in whom, except I Believe Truly, I cannot expect to be Saved; for, <hi>Without Faith</hi>
+               <note place="margin">Heb. 11. 6.</note>
+               <hi>it is Impossible to please God;</hi> and the <hi>Faith</hi>
+               <pb n="4" facs="tcp:47573:3"/> which is pleasing to <hi>God,</hi> is but One, according to the Scriptures; <hi>One Lord, One Faith, One Bap<g ref="char:EOLhyphen"/>tism;</hi>
+               <note place="margin">Ephes. 4. 5.</note> and finding great Heats and Debates on Both Sides, about the One True <hi>Faith</hi> and <hi>Worship</hi> of this One and Omnipotent <hi>God: <hi>Catholicks</hi>
+               </hi> say, <hi>They are in the Right on't; and that whoever wilfully Liveth and Dieth out of that Faith, cannot please</hi> God, <hi>and of consequence Con<g ref="char:EOLhyphen"/>demn'd:</hi> And <hi>Protestants</hi> of all sorts, say, <hi>They are in the Right, tho' You may be Saved</hi> (say they) <hi>in either, or any other Religion;</hi> but how to be certain, which of them are in the <hi>Right?</hi> is the <hi>Quaere.</hi> Indeed, if the Sins of <hi>Faith</hi> were as visible to Sense as the Sins of <hi>Behaviour,</hi> then the Re<g ref="char:EOLhyphen"/>sult would be more easie; but, as 'tis, the Arguments on All Sides, are Obstinately maintain'd; and, for ought I see, some of Ye are to <hi>Seek,</hi> tho' Ye All agree, that the <hi>Holy Bible</hi> beareth True Testimony of <hi>God</hi>'s most Sacred Word.</p>
+            <p>By the Function therefore, which Ye Profess, of being <hi>Priests</hi> and <hi>Ministers</hi> of the Living <hi>God;</hi> I humbly desire You would satisfie my <hi>Conscience</hi> in the great Point of the <hi>Lord</hi>'s-<hi>Supper,</hi> by the <hi>Scripture</hi> only; and not by Your se<g ref="char:EOLhyphen"/>veral ways of Reasoning and Arguing One against Ano<g ref="char:EOLhyphen"/>ther; for therein, You Your Selves cannot agree; nor by Citing of Antient <hi>Greek</hi> and <hi>Latin</hi> Fathers, whose Lan<g ref="char:EOLhyphen"/>guages I do not understand; but by the Express Text, and Plain Word of <hi>God,</hi> as Written and set forth in Our <hi>English</hi> Bibles, and no otherways.</p>
+            <p>Wherefore, First, to You that are in Communion with the <hi>Church of</hi> Rome: <hi>Do You Firmly Believe, That in the Sacrament of the</hi> Lord's-Supper, <hi>after the Words of Blessing Pronounced by a Lawful Priest, thro' the Power of</hi> God, <hi>under the Species of Bread and Wine, is contain'd the</hi> Body and Blood of Jesus-Christ, <hi>and that the Worthy Receivers do truly and really Eat and Drink the</hi> Flesh and Blood of Christ?
+<pb n="5" facs="tcp:47573:3"/> To this You are to Answer, <hi>You do,</hi> or, <hi>You do not,</hi> in plain, without Equivocation or Mental Reservation, which Your Adversaries (if a Man may believe them) says, You are much addicted to: But, as I am a <hi>Seeker</hi> after Truth, I de<g ref="char:EOLhyphen"/>sire to be plainly dealt with; for my Meaning is Plain; and in short, <hi>Do You Truly Believe the Real and Immediate Presence of the</hi> Body and Blood of Christ <hi>in Your Sacrament of the</hi> Lord's-Supper, <hi>or not?</hi> If You Answer in the Affir<g ref="char:EOLhyphen"/>mative, then</p>
+            <p>You are by this Request, desired to set Forth and Pub<g ref="char:EOLhyphen"/>lish in Print, all the Scripture-Proof You can, to Prove Your said Affirmative, and that in Words at length, citing the Book, Chapter and Verse; and, that You may not be surprized, my Design is to see what Scripture You have for it, and what the Others have against it; for I esteem the Bible to be the Evidence of Truth; and when Both Parties have given in all the Scripture-Evidence they can, the Summ of Both shall be Publish'd together in One Piece, for general Satisfaction; that the World may see, as well as I, which of Ye are in the Right; for certainly, he that produceth the Fullest and Clearest Evidence, hath the Truth of his Side; and, in <hi>Conscience,</hi> all <hi>Seekers</hi> of Truth ought to submit accordingly; for My part, I am resolved to be either <hi>Catholick</hi> or <hi>Protestant,</hi> as the Verdict upon this Tryal shall go; and the Success will depend up<g ref="char:EOLhyphen"/>on the Evidence; wherefore, look to't on Both Sides, for Your Interests are at Stake.</p>
+            <p>And now, To You <hi>Ministers</hi> of the <hi>Church of England,</hi> as Established by Law; for, to You I speak, of the <hi>Prote<g ref="char:EOLhyphen"/>stant</hi> Part; <hi>Do You Truly and Firmly Believe the Real and Immediate Presence of the</hi> Body and Blood of Jesus Christ, <hi>in the Sacrament of the</hi> Lord's-Supper, <hi>as I have already Propounded it to the</hi> Catholick <hi>Party, or not?</hi> for the same
+<pb n="6" facs="tcp:47573:4"/>
+               <hi>Quaere</hi> is intended alike to Both, whether Express'd in the same Words, or no; and, I hope, I need not caution Ye not to Equivocate; for that would be Disingenuous, to be guilty of the same Crimes You charge upon Others: Wherefore, I desire that Your Answer may be <hi>Yea,</hi> or <hi>Nay,</hi> and not between Both; either, <hi>It is,</hi> or, <hi>It is not;</hi> and not, That <hi>It is,</hi> and, <hi>It is not,</hi> as some Inconsiderates do but too fre<g ref="char:EOLhyphen"/>quently offer; who will tell You, They believe the <hi>Real Presence</hi> by <hi>Faith;</hi> and at the same time, deny the <hi>Real Presence</hi> by <hi>Sence;</hi> which is as much as to say, <hi>They be<g ref="char:EOLhyphen"/>lieve it by Faith,</hi> but, <hi>Have not Faith to believe it:</hi> Others <hi>Believe it there Spiritually;</hi> but, not <hi>Really:</hi> Others <hi>Believe it is the Body and Blood of Christ;</hi> but not, that <hi>Christ is Corporeally Present:</hi> Which, in plain <hi>English,</hi> is to say, <hi>The Body and Blood of Christ is there in Spirit,</hi> but <hi>not in Truth; His Body is there, tho' not in Body there;</hi> and such like Fopperies.</p>
+            <p>Wherefore, Let's away with these, and the like Blind<g ref="char:EOLhyphen"/>nesses; and, in plain <hi>English,</hi> tell me, <hi>Is the</hi> Body and Blood of Christ, <hi>Truly and Really Contain'd, and Present under the Forms of Bread and Wine in the Sacrament of the</hi> Lord's-Supper, <hi>or not?</hi> If You Answer in the <hi>Affirmative,</hi> the <hi>Ca<g ref="char:EOLhyphen"/>tholicks</hi> and You are agreed; and I shall, by <hi>God</hi>'s Grace, dispose My Self so as to Believe accordingly: But if Ye Answer in the <hi>Negative,</hi> and say, <hi>That 'tis but Bread and Wine after Consecration, without any Change or Alteration from what it was before; and that it is Administred only as a Figure af</hi> Christ's Body and Blood, <hi>in Remembrance of his Death and Passion only, and no more;</hi> That is to say, <hi>The Communicants do not Truly and Really Receive the</hi> Body and Blood of Christ, <hi>but plain Bread and Wine, in Remembrance of his</hi> Body and Blood: (But now I talk of <hi>Remembrance,</hi> it puts me in Mind of another Vulgarly Idle way of An<g ref="char:EOLhyphen"/>swering,
+<pb n="7" facs="tcp:47573:4"/> when the Words of the Divine <hi>Jesus (This is my Body</hi>) is offered in Confir<g ref="char:EOLhyphen"/>mation<note place="margin">Mat. 26. 26.</note> of its being his Body, they think they Evade 'em, by the equally Divine, <hi>This do</hi>
+               <note place="margin">Luke 22. 19.</note>
+               <hi>in Remembrance of Me;</hi> as if the <hi>English</hi> of, <hi>This do in Remembrance of Me,</hi> was, not to believe one Word of, <hi>This is my Body,</hi> nor of any other Text that's produced in Confirmation thereof; for my part, I can't Conceive, how the <hi>This do in Remembrance of Me,</hi> doth any way destroy the <hi>This is my Body;</hi> as if the Remembrance of its Being, could make it cease to Be: But however, The Unlearned and Un<g ref="char:EOLhyphen"/>stable may or do <hi>Wrest the Scriptures to their</hi>
+               <note place="margin">2 Pet. 3. 16.</note>
+               <hi>own Destruction,</hi> I yet hope better from You, their Leaders. Wherefore, to the Question, <hi>Whether the Bread and Wine in the Sacrament of the</hi> Lord's-Supper, <hi>which You Administer to the Communicants, be the True</hi> Body and Blood of Christ, <hi>or no?</hi> If You say, <hi>It is not</hi>) Then my Request is, That You plainly set Forth and Publish all the Scripture-Proof You have, or can, to prove That Your <hi>Negative;</hi> for, as I said before, nothing but Scripture (without troubling Your Selves to tell Me Your meaning on't) can satisfie me in this Matter: My Intent being to Try the Difference by the Scripture only, which (as said) I esteem to be the Evidence of Truth; and by this means, I shall discover what Scriptures the <hi>Catholicks</hi> have (if any at all) for the <hi>Real Presence,</hi> and what <hi>You</hi> have to pro<g ref="char:EOLhyphen"/>duce against it; that, according to the Evidence, the Verdict may be given. As for Your parts, <hi>Gentlemen</hi> of the <hi>Church of England,</hi> I doubt not, but You will make good Your Cause, seeing it is to be Tryed by the <hi>Bible,</hi> Your own <hi>Rule of Faith;</hi> And, I assure You, it concerns You now, if ever, to stand by Your <hi>Rule,</hi> and that Your <hi>Rule</hi> do
+<pb n="8" facs="tcp:47573:5"/> stand by You: For, if at this Tryal, it appear, that the <hi>Catholicks</hi> have Positive Scriptures for the <hi>Real Presence,</hi> and You have none to prove the contrary, Judgment will pass against Ye, by Your own Rule; and the <hi>Catholick</hi> Doctrine, of the <hi>Real Presence</hi> and <hi>Being</hi> of <hi>Christ's Body and Blood,</hi> in the Sacrament of the <hi>Lord's Supper,</hi> will be put in Execution, by all Lovers of Truth, who are Zealous or Desirous to save their Souls, by True <hi>Faith</hi> in <hi>Jesus Christ.</hi> And, to be plain with Ye, 'Twas My being in Discourse with a Gentleman of the <hi>Catholick▪</hi> Perswasion, that moved Me to this way of Tryal; for, he boldly Affirmed, <hi>That he would prove Their Doctrine of the</hi> Real Presence, <hi>by the express Word of</hi> God, <hi>out of Our own Bibles;</hi> and, <hi>That he Challeng'd all</hi> England <hi>to produce him so much as One plain Text, from the Beginning of</hi> Genesis <hi>to the End of the</hi> Reve<g ref="char:EOLhyphen"/>lations, <hi>to prove the Contrary; if they could, he would be of Their Religion, or any Other They'd appoint him; which if he parted with his Own, he thought 'twas all one:</hi> And this moved Me to try, what Scriptures were to be had from Both Parties.</p>
+            <p>
+               <hi>Gentlemen,</hi> I hope, You'll accept this My Request, see<g ref="char:EOLhyphen"/>ing it is for the Quiet and Peace of My Soul; and that You'll be Candid and Fair in Your Answers, without E<g ref="char:EOLhyphen"/>vading or Tricking the Question by Silence, or Starting of New Controversies; but that You would fairly Publish all the Evidence You can, from the Bible only, in plain, without chopping of <hi>Logick</hi> to Him that is, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47573:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
